@@ -1,1 +1,0 @@
-pacman -S alsa-utils gnome-keyring gvim git virtualbox chromium firefox tuxguitar smplayer libreoffice gimp;

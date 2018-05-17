@@ -1,1 +1,0 @@
-pacman -S connman wpa_supplicant bluez;

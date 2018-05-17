@@ -1,1 +1,0 @@
-pacman -S alsa-utils gnome-keyring git virtualbox chromium firefox tuxguitar mplayer libreoffice gimp neovim xclip ttf-fira-mono ttf-hack linux-headers openssh vagrant zip unzip unrar nodejs npm python-pip

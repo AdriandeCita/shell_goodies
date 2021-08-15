@@ -1,6 +1,6 @@
 #!/bin/sh
 lock() {
-    gnome-screensaver-command -l
+    i3lock-custom.sh
 }
 
 case "$1" in
